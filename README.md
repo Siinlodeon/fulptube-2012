@@ -1,2 +1,3 @@
-# fulptube-2012
+# FulpTube No Docker
 A YT
+XAMPP! SQL IT
